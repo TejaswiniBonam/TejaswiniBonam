@@ -20,10 +20,6 @@
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_CODEFORCES_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="YOUR_CODEFORCES_LINK" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40" />
   </a>
