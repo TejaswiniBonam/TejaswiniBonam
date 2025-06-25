@@ -8,28 +8,28 @@
 ## 🌐 Coding Profiles
 
 <p align="center">
-  <a href="YOUR_LEETCODE_LINK" target="_blank" style="margin-right: 20px;">
+  <a href="https://leetcode.com/u/21b01a0526/" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_CODECHEF_LINK" target="_blank" style="margin-right: 20px;">
+  <a href="https://www.codechef.com/users/svecw_526" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_HACKERRANK_LINK" target="_blank">
+  <a href="https://www.hackerrank.com/profile/21b01a0526" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <br>
-  <a href="YOUR_CODEFORCES_LINK" target="_blank" style="margin-right: 20px;">
+  <a href="https://codeforces.com/profile/tejaswini526" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_SPOJ_LINK" target="_blank" style="margin-right: 20px;">
+  <a href="https://www.spoj.com/users/tejaswini_526/" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/SPOJ-222222?style=for-the-badge&logo=spoj&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_INTERVIEWBIT_LINK" target="_blank">
+  <a href="https://www.interviewbit.com/profile/21b01a0526cse/" target="_blank">
     <img src="https://img.shields.io/badge/InterviewBit-00C4CC?style=for-the-badge&logo=interviewbit&logoColor=white" height="40" />
   </a>
 </p>
@@ -80,7 +80,7 @@
 
 **Software Intern** @ IBM, Bangalore (July 2024 - Dec 2024)  
 - Received appreciation for my work
-- Worked on enterprise software solutions
+
 
 ---
 
@@ -132,5 +132,5 @@ GPA: 10
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renuka-lakshmi-tejaswini-bonam-b87443255/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teja12112004@gmail.com)
