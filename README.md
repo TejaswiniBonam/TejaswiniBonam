@@ -112,7 +112,7 @@ GPA: 10
 ## 📈 Contribution Streak
 
 <!-- Empty but placeholder for later -->
-![GitHub Streak](https://streak-stats.demolab.com?user=TejaswiniBonam&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TejaswiniBonam&theme=radical&hide_border=true)
 
 
 
