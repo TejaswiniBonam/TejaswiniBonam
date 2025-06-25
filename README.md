@@ -133,4 +133,5 @@ GPA: 10
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renuka-lakshmi-tejaswini-bonam-b87443255/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teja12112004@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teja12112004@gmail.com) 
+💼 [!Resume](https://drive.google.com/file/d/1smiFC2mpENTcwM61AKuf0KkQPWCQhZHY/view?usp=sharing)
