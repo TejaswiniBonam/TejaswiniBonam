@@ -103,6 +103,20 @@ GPA: 10
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TejaswiniBonam&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 Contribution Streak
+
+<!-- Empty but placeholder for later -->
+![GitHub Streak](https://streak-stats.demolab.com?user=TejaswiniBonam&theme=radical&hide_border=true)
+
+
+
+
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
