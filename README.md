@@ -19,6 +19,22 @@
   <a href="YOUR_HACKERRANK_LINK" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_CODEFORCES_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_CODEFORCES_LINK" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_SPOJ_LINK" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/SPOJ-222222?style=for-the-badge&logo=spoj&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_INTERVIEWBIT_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/InterviewBit-00C4CC?style=for-the-badge&logo=interviewbit&logoColor=white" height="40" />
+  </a>
 </p>
 
 ---
