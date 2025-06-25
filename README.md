@@ -52,11 +52,11 @@
 
 **Tools & Technologies**  
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
-
+![MS Office Tools](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ---
 
 ## 🏆 Projects
