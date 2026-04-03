@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Renuka Lakshmi Tejaswini Bonam!
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVqdWV5bmhhZnNlNnBtZ201dHB5b2I3cTJ1aWR5bTVkZjNwbmF4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif" align="right" width="280"/>
 
 🎓 Final year BTech CSE student at **Shri Vishnu Engineering College for Women**  
 💻 Passionate about **full-stack development**, **machine learning**, and **automation**  
@@ -10,7 +11,7 @@
 
 <div>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVqdWV5bmhhZnNlNnBtZ201dHB5b2I3cTJ1aWR5bTVkZjNwbmF4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif" align="right" width="280"/>
+
 
 
 <a href="https://leetcode.com/u/21b01a0526/">
