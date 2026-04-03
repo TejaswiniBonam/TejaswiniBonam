@@ -6,38 +6,47 @@
 📬 Reach me: teja12112004@gmail.com | +91 9951280286  
 
 ## 🌐 Coding Profiles
-<p align="right">
-<img src =https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVqdWV5bmhhZnNlNnBtZ201dHB5b2I3cTJ1aWR5bTVkZjNwbmF4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif  width="350" height="200">
+<table>
+<tr>
+<td width="60%">
+
+## 🌐 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/u/21b01a0526/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" height="40"/>
+  </a><br><br>
+
+  <a href="https://www.codechef.com/users/svecw_526">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40"/>
+  </a><br><br>
+
+  <a href="https://www.hackerrank.com/profile/21b01a0526">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40"/>
+  </a><br><br>
+
+  <a href="https://codeforces.com/profile/tejaswini526">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40"/>
+  </a><br><br>
+
+  <a href="https://www.spoj.com/users/tejaswini_526/">
+    <img src="https://img.shields.io/badge/SPOJ-222222?style=for-the-badge&logo=spoj&logoColor=white" height="40"/>
+  </a><br><br>
+
+  <a href="https://www.interviewbit.com/profile/21b01a0526cse/">
+    <img src="https://img.shields.io/badge/InterviewBit-00C4CC?style=for-the-badge&logo=interviewbit&logoColor=white" height="40"/>
+  </a>
 </p>
 
+</td>
 
+<td width="40%" align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/21b01a0526/" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/svecw_526" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/21b01a0526" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <br>
-  <a href="https://codeforces.com/profile/tejaswini526" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.spoj.com/users/tejaswini_526/" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.shields.io/badge/SPOJ-222222?style=for-the-badge&logo=spoj&logoColor=white" height="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.interviewbit.com/profile/21b01a0526cse/" target="_blank">
-    <img src="https://img.shields.io/badge/InterviewBit-00C4CC?style=for-the-badge&logo=interviewbit&logoColor=white" height="40" />
-  </a>
-</p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVqdWV5bmhhZnNlNnBtZ201dHB5b2I3cTJ1aWR5bTVkZjNwbmF4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
