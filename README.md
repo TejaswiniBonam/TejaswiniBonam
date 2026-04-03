@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40"/>
 </a>
 
-<br><br>
+
 
 <a href="https://codeforces.com/profile/tejaswini526">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="40"/>
