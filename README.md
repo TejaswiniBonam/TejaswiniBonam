@@ -6,6 +6,9 @@
 📬 Reach me: teja12112004@gmail.com | +91 9951280286  
 
 ## 🌐 Coding Profiles
+<img align ="right" src =https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVqdWV5bmhhZnNlNnBtZ201dHB5b2I3cTJ1aWR5bTVkZjNwbmF4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MPOp0rmUUEKfcvFckS/giphy.gif  width="350" height="200">
+
+
 
 <p align="center">
   <a href="https://leetcode.com/u/21b01a0526/" target="_blank" style="margin-right: 20px;">
